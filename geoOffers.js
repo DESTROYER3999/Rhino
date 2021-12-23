@@ -1,5 +1,3 @@
-console.log("HACKED!");
-
 var GeoOffersPopup = function(e) {
     var a = {};
     function t(n) {
